@@ -1,6 +1,6 @@
-#Progress Evidence for McKinsey Apprenticeship 2021-2022
+# Progress Evidence for McKinsey Apprenticeship 2021-2022
 
-##Overview
+## Overview
 
 This repository is a collection of all projects and learnings completed during my apprenticeship at McKinsey & Co. during 2021-2022.
 
